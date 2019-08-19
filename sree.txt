@@ -1,3 +1,10 @@
  hi this my first project
  hi this asecond project
+<<<<<<< HEAD
  devops branch
+=======
+ helo
+ my project
+ jenkins
+
+>>>>>>> dev1
